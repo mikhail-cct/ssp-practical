@@ -1,0 +1,27 @@
+{
+  "name": "ssp-proj",
+  "version": "0.0.1",
+  "description": "practical class work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikhail-cct/ssp-practical.git"
+  },
+  "author": "Mikhail",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikhail-cct/ssp-practical/issues"
+  },
+  "homepage": "https://github.com/mikhail-cct/ssp-practical#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "http": "^0.0.1-security",
+    "path": "^0.12.7",
+    "xml2js": "^0.4.23",
+    "xslt-processor": "^0.11.5"
+  }
+}
